@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jengraph Jennifer (Jen) Niles 
+- 👋 Hi, I’m Jen @jengraph
 - 👀 I'm a web designer/developer with graphic design/UX experience. I love creative thinking and logical problem-solving applied to digital products.
 - 🌱 I’m currently learning React, Typescript, Python
 - 💞️ I’m excited to collaborate with GDI Hackathon 2022
